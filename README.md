@@ -5,4 +5,8 @@ Basicamente o código tem como função ler aspectos linguísticos de um texto e
 Esse programa trabalha com listas e 'for' de uma forma mais complexa e elegante. Demorou dois dias para a montagem desse quebra-cabeça. 
 
 Ainda planejo fazer aprimorações como a primeira entrada ser um texto qualquer, calcular os seus traços linguísticos e após isso comparar com outros textos. 
-Mas em breve.
+
+Essa modificação está disponível no código coh-piah_oficial.1.2.py. 
+
+Utilize para comparar n textos com qualquer texto base.
+
